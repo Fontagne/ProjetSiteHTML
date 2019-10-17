@@ -1,0 +1,27 @@
+.tetetotal{
+
+    height: 100px;
+    width: 100%;
+    
+}
+.tetegauche{
+    background-color: red;
+    height: 100px;
+    width: 33%;
+    float: right;
+}
+
+.teted{
+    background-color: blue;
+    height: 100px;
+    width: 33%;
+    float: left;
+}
+.titre{
+    color: black;
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+}

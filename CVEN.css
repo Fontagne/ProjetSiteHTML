@@ -1,0 +1,24 @@
+.topofpage{
+    background-color: red;
+    height: 200px; 
+    width: 750px;
+}
+
+.thecv{
+    background-color: lightgreen;
+    height: 700px;
+    width: 750px;
+}
+
+HR{
+    border: 1px solid black;
+}
+
+.bouton{
+    width: 150px;
+   line-height: 40px; 
+   display: block;
+   margin: auto;
+   font-weight: bold;
+   text-align: center;
+}
